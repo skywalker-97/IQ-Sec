@@ -37,7 +37,7 @@ export default async function handler(req, res) {
                                 - Write the exact AWS Console navigation steps (e.g., EC2 > Launch Instance > AMI selection).
                                 - Write the exact CLI/Terminal commands required (e.g., ssh -i key.pem ec2-user@ip). 
                                 - Format the answer clearly with "Task 1:" and "Task 2:" headings and numbered bullet points so the user can directly paste it into their exam text box.
-                                - Use simple English and be concise, but do not skip any step.
+                                - Use simple Basic English and easy words and be concise, but do not skip any step.
                             5. IF THEORY: Provide a direct, exact, and accurate text answer.
                             6. IF AWS/VPC/CLOUD LAB: Provide a detailed numbered list covering every requirement mentioned in the question (VPC, Subnets, IGW, Route Tables, EC2, etc.).
 
